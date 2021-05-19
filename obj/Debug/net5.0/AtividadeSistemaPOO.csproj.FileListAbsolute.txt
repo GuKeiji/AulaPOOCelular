@@ -1,0 +1,16 @@
+E:\HD\SENAI\AtividadeSistemaPOO\bin\Debug\net5.0\AtividadeSistemaPOO.exe
+E:\HD\SENAI\AtividadeSistemaPOO\bin\Debug\net5.0\AtividadeSistemaPOO.deps.json
+E:\HD\SENAI\AtividadeSistemaPOO\bin\Debug\net5.0\AtividadeSistemaPOO.runtimeconfig.json
+E:\HD\SENAI\AtividadeSistemaPOO\bin\Debug\net5.0\AtividadeSistemaPOO.runtimeconfig.dev.json
+E:\HD\SENAI\AtividadeSistemaPOO\bin\Debug\net5.0\AtividadeSistemaPOO.dll
+E:\HD\SENAI\AtividadeSistemaPOO\bin\Debug\net5.0\ref\AtividadeSistemaPOO.dll
+E:\HD\SENAI\AtividadeSistemaPOO\bin\Debug\net5.0\AtividadeSistemaPOO.pdb
+E:\HD\SENAI\AtividadeSistemaPOO\obj\Debug\net5.0\AtividadeSistemaPOO.csprojAssemblyReference.cache
+E:\HD\SENAI\AtividadeSistemaPOO\obj\Debug\net5.0\AtividadeSistemaPOO.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\SENAI\AtividadeSistemaPOO\obj\Debug\net5.0\AtividadeSistemaPOO.AssemblyInfoInputs.cache
+E:\HD\SENAI\AtividadeSistemaPOO\obj\Debug\net5.0\AtividadeSistemaPOO.AssemblyInfo.cs
+E:\HD\SENAI\AtividadeSistemaPOO\obj\Debug\net5.0\AtividadeSistemaPOO.csproj.CoreCompileInputs.cache
+E:\HD\SENAI\AtividadeSistemaPOO\obj\Debug\net5.0\AtividadeSistemaPOO.dll
+E:\HD\SENAI\AtividadeSistemaPOO\obj\Debug\net5.0\ref\AtividadeSistemaPOO.dll
+E:\HD\SENAI\AtividadeSistemaPOO\obj\Debug\net5.0\AtividadeSistemaPOO.pdb
+E:\HD\SENAI\AtividadeSistemaPOO\obj\Debug\net5.0\AtividadeSistemaPOO.genruntimeconfig.cache
